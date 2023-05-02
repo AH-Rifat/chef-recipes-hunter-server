@@ -4,7 +4,7 @@ const cors = require('cors')
 
 const chefInfo = require('./data/chefsData.json')
 
-app.use(cors)
+app.use(cors())
 
 app.get('/chefs', (req, res) => {
     res.send(chefInfo)
