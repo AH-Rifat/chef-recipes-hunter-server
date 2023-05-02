@@ -61,7 +61,7 @@
     {
         "id": 2,
         "name": "Mon luk Amy",
-        "image": "https://unsplash.com/photos/G8M2vkn1ADA",
+        "image": "https://images.unsplash.com/photo-1552080084-f86b99bd1d29?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "description": "As a chef, I believe that good food is the key to a happy life. Let me share my love for cooking and my favorite recipes with you.",
         "experience": "2 years",
         "numbersOfRecipes": 3,
@@ -177,7 +177,7 @@
     {
         "id": 4,
         "name": "Bon Appetit",
-        "image": "https://unsplash.com/photos/wKOKidNT14w",
+        "image": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "description": "With a deep love for food and a creative spirit, I'm always experimenting with new recipes and flavors. Join me on this culinary journey!",
         "experience": "1 years",
         "numbersOfRecipes": 3,
@@ -236,7 +236,7 @@
     {
         "id": 5,
         "name": "Cest La Vie",
-        "image": "https://unsplash.com/photos/iEEBWgY_6lA",
+        "image": "https://images.unsplash.com/photo-1530983822321-fcac2d3c0f06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=834&q=80",
         "description": "Food is not just fuel for the body, it's a celebration of life. As a chef, I aim to create dishes that are not only delicious but also nourishing for the soul.",
         "experience": "5 years",
         "numbersOfRecipes": 3,
