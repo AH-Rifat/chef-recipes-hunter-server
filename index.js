@@ -10,6 +10,12 @@ app.get('/chefs', (req, res) => {
     res.send(chefInfo)
 })
 
+app.get('/chefs_recipes/:id', (req, res) => {
+    const recipeInfo = chefInfo.find(n => n.id === parseInt(req.params.id))
+    console.log(recipeInfo);
+    res.send(recipeInfo)
+})
+
 app.listen(5000, () => {
     console.log('server running on 5000 port');
 })
