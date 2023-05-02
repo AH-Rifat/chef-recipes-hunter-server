@@ -3,7 +3,7 @@
         "id": 1,
         "name": "LaVie En Rose",
         "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
-        "description": "",
+        "description": "Passionate about food and creating delicious dishes that bring people together. Join me in the kitchen and let's cook up something amazing!",
         "experience": "2 years",
         "numbersOfRecipes": 3,
         "likes": "1.2k",
@@ -62,7 +62,7 @@
         "id": 2,
         "name": "Mon luk Amy",
         "image": "https://unsplash.com/photos/G8M2vkn1ADA",
-        "description": "",
+        "description": "As a chef, I believe that good food is the key to a happy life. Let me share my love for cooking and my favorite recipes with you.",
         "experience": "2 years",
         "numbersOfRecipes": 3,
         "likes": "2.1k",
@@ -120,56 +120,234 @@
     {
         "id": 3,
         "name": "Paris Je Taime",
-        "description": "",
+        "image": "https://images.unsplash.com/photo-1601935111741-ae98b2b230b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Cooking is my art, and the kitchen is my canvas. Come join me in creating culinary masterpieces that will delight your taste buds!",
         "experience": "3 years",
         "numbersOfRecipes": 3,
         "likes": "1.8k",
         "listOfRecipes": [
             {
-            "recipeName": "Chocolate Soufflé",
-            "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-semi-sweet-chocolate-suffle1250-210201-sc-1614026336.jpg?crop=1.00xw:0.667xh;0,0.156xh&resize=640:*",
-            "Ingredients": [
-              "1/2 c. (1 stick) butter, cut into tablespoons, plus more for dish",
-              "6 tbsp. granulated sugar, plus more for dish",
-              "8 oz. semisweet chocolate, roughly chopped",
-              "1 tsp. pure vanilla extract",
-              "1 tsp. kosher salt ",
-              "4 large eggs, separated ",
-              "Powdered sugar, for serving"
+                "recipeName": "Chocolate Soufflé",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-semi-sweet-chocolate-suffle1250-210201-sc-1614026336.jpg?crop=1.00xw:0.667xh;0,0.156xh&resize=640:*",
+                "Ingredients": [
+                    "1/2 c. (1 stick) butter, cut into tablespoons, plus more for dish",
+                    "6 tbsp. granulated sugar, plus more for dish",
+                    "8 oz. semisweet chocolate, roughly chopped",
+                    "1 tsp. pure vanilla extract",
+                    "1 tsp. kosher salt ",
+                    "4 large eggs, separated ",
+                    "Powdered sugar, for serving"
                 ],
-            "cookingMethod": "Preheat oven to 375°. Grease the inside of four 6-ounce ramekins well with butter including the top of the outside rim. Sprinkle a little sugar in each and tap it around to coat the inside well. Dump out any excess sugar. Place on a small baking sheet.Create a double boiler by placing a large bowl over a pot of simmering water, ensuring that the bottom of the bowl does not touch water. Add chocolate and butter to bowl and stir until completely melted. Remove from heat and stir in vanilla and salt. Let cool while you whip egg whites.Add egg whites to a medium bowl and beat with a hand mixer. Once at soft peaks start adding sugar slowly, 1 tablespoon at a time. Continue beating until egg whites reach stiff peaks.Add egg yolks one at a time to cooled chocolate, whisking well after each one. Add about ½ cup of whipped egg whites to chocolate and stir until just combined. Add the remaining egg whites in 2 batches, gently folding in after each addition just until no white streaks remain.Bake until soufflés have risen tall and are just slightly wobbly, about 20 minutes.Dust with powdered sugar and serve immediately.",
-            "rating": 4.7
+                "cookingMethod": "Preheat oven to 375°. Grease the inside of four 6-ounce ramekins well with butter including the top of the outside rim. Sprinkle a little sugar in each and tap it around to coat the inside well. Dump out any excess sugar. Place on a small baking sheet.Create a double boiler by placing a large bowl over a pot of simmering water, ensuring that the bottom of the bowl does not touch water. Add chocolate and butter to bowl and stir until completely melted. Remove from heat and stir in vanilla and salt. Let cool while you whip egg whites.Add egg whites to a medium bowl and beat with a hand mixer. Once at soft peaks start adding sugar slowly, 1 tablespoon at a time. Continue beating until egg whites reach stiff peaks.Add egg yolks one at a time to cooled chocolate, whisking well after each one. Add about ½ cup of whipped egg whites to chocolate and stir until just combined. Add the remaining egg whites in 2 batches, gently folding in after each addition just until no white streaks remain.Bake until soufflés have risen tall and are just slightly wobbly, about 20 minutes.Dust with powdered sugar and serve immediately.",
+                "rating": 4.7
             },
             {
-            "recipeName": "Baked Brie In Puff Pastry",
-            "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-210824-baked-brie-013-ab-1632765206.jpg?crop=0.668xw:1.00xh;0.257xw,0&resize=640:*",
-            "Ingredients": [
-              "1 (8-oz.) sheet puff pastry, thawed according to package directions",
-              "1 (7-oz.) wheel brie",
-              "3 tbsp. preserves, such as cherry or raspberry",
-              "1 egg, lightly beaten",
-              "2 tbsp. sliced almonds",
-              "1 tbsp. honey"
+                "recipeName": "Baked Brie In Puff Pastry",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-210824-baked-brie-013-ab-1632765206.jpg?crop=0.668xw:1.00xh;0.257xw,0&resize=640:*",
+                "Ingredients": [
+                    "1 (8-oz.) sheet puff pastry, thawed according to package directions",
+                    "1 (7-oz.) wheel brie",
+                    "3 tbsp. preserves, such as cherry or raspberry",
+                    "1 egg, lightly beaten",
+                    "2 tbsp. sliced almonds",
+                    "1 tbsp. honey"
                 ],
-            "cookingMethod": "Preheat oven to 425°. Line a baking sheet with parchment paper. On a lightly floured surface, roll puff pastry out to an 11” square. Place brie in center and top with preserves. Brush puff pastry all over with egg wash. Fold one corner over brie, then continue folding puff pastry over brie, creating pleats. Brush top with egg wash. Bake until lightly golden, about 25 minutes. Top with almonds and bake until golden brown, 5 to 8 minutes more. Let cool at least 10 minutes. Drizzle with honey just before serving.",
-            "rating": 4.5
+                "cookingMethod": "Preheat oven to 425°. Line a baking sheet with parchment paper. On a lightly floured surface, roll puff pastry out to an 11” square. Place brie in center and top with preserves. Brush puff pastry all over with egg wash. Fold one corner over brie, then continue folding puff pastry over brie, creating pleats. Brush top with egg wash. Bake until lightly golden, about 25 minutes. Top with almonds and bake until golden brown, 5 to 8 minutes more. Let cool at least 10 minutes. Drizzle with honey just before serving.",
+                "rating": 4.5
             },
             {
-            "recipeName": "Classic Coq Au Vin",
-            "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-202002-coq-au-vin-0142-landscape-pf-1582306355.jpg?crop=0.668xw:1.00xh;0.0901xw,0&resize=640:*",
-            "Ingredients": [
-              "3 lb. bone-in, skin-on chicken thighs and drumsticks Kosher salt",
-              "Freshly ground black pepper",
-              "6 strips bacon, cut into 1 pieces",
-              "8-oz. baby bellas, sliced",
-              "1 large carrot, peeled and chopped",
-              "2 cloves garlic, minced",
-              "1 tbsp. tomato paste",
-              "2 tbsp. all-purpose flour",
-              "2 c. red wine"
+                "recipeName": "Classic Coq Au Vin",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-202002-coq-au-vin-0142-landscape-pf-1582306355.jpg?crop=0.668xw:1.00xh;0.0901xw,0&resize=640:*",
+                "Ingredients": [
+                    "3 lb. bone-in, skin-on chicken thighs and drumsticks Kosher salt",
+                    "Freshly ground black pepper",
+                    "6 strips bacon, cut into 1 pieces",
+                    "8-oz. baby bellas, sliced",
+                    "1 large carrot, peeled and chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. tomato paste",
+                    "2 tbsp. all-purpose flour",
+                    "2 c. red wine"
                 ],
-            "cookingMethod": "Preheat oven to 350°. Season chicken all over with salt and pepper. In a large dutch oven over medium heat, add bacon and cook until crispy, about 8 minutes. Using a slotted spoon, remove bacon to a paper towel-lined plate.To same pot, add chicken, working in batches as necessary. Cook until skin is golden, 4 to 5 minutes per side. Remove chicken to a plate. Drain all but 3 tablespoons oil from pot.To same pot, add mushrooms, onions, and carrots and cook until golden, about 5 minutes. Add garlic and cook until fragrant, 1 minute more. Add tomato paste and stir to coat vegetables, then add flour and stir until vegetables are coated. Slowly pour in wine, broth, and brandy. Return chicken and half the bacon to pot. Add thyme, season with salt and pepper and bring to a boil.Once boiling, cover with lid and place in oven. Cook until chicken is cooked through and internal temperature reads 165°, 20 to 30 minutes. Remove chicken from pot and place on a plate to keepReturn pot to stove over medium heat, add in butter, and simmer until sauce is thickened, about 10 minutes.Serve chicken with sauce poured over and topped with remaining bacon and parsley.",
-            "rating": 4.5
+                "cookingMethod": "Preheat oven to 350°. Season chicken all over with salt and pepper. In a large dutch oven over medium heat, add bacon and cook until crispy, about 8 minutes. Using a slotted spoon, remove bacon to a paper towel-lined plate.To same pot, add chicken, working in batches as necessary. Cook until skin is golden, 4 to 5 minutes per side. Remove chicken to a plate. Drain all but 3 tablespoons oil from pot.To same pot, add mushrooms, onions, and carrots and cook until golden, about 5 minutes. Add garlic and cook until fragrant, 1 minute more. Add tomato paste and stir to coat vegetables, then add flour and stir until vegetables are coated. Slowly pour in wine, broth, and brandy. Return chicken and half the bacon to pot. Add thyme, season with salt and pepper and bring to a boil.Once boiling, cover with lid and place in oven. Cook until chicken is cooked through and internal temperature reads 165°, 20 to 30 minutes. Remove chicken from pot and place on a plate to keepReturn pot to stove over medium heat, add in butter, and simmer until sauce is thickened, about 10 minutes.Serve chicken with sauce poured over and topped with remaining bacon and parsley.",
+                "rating": 4.5
+            }
+        ]
+    },
+
+    
+    {
+        "id": 4,
+        "name": "Bon Appetit",
+        "image": "https://unsplash.com/photos/wKOKidNT14w",
+        "description": "With a deep love for food and a creative spirit, I'm always experimenting with new recipes and flavors. Join me on this culinary journey!",
+        "experience": "1 years",
+        "numbersOfRecipes": 3,
+        "likes": "1.9k",
+        "listOfRecipes": [
+            {
+                "recipeName": "Easy French Onion Soup",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-french-onion-soup-vertical-1-1538433209.jpg?crop=1xw:1xh;center,top&resize=980:*",
+                "Ingredients": [
+                    "4 tbsp. butter",
+                    "3 large yellow onions",
+                    "2 tbsp. flour Kosher salt",
+                    "Freshly ground black pepper",
+                    "1/2 c. white wine",
+                    "2 c. low-sodium chicken stock",
+                    "8 baguette slices",
+                    "1 c. grated Gruyère"
+                ],
+                "cookingMethod": "In a large pot over medium heat, melt butter. Add onions and cook, stirring occasionally, until deeply golden, about 25 minutes. Add flour and cook 1 minute. Season with salt and pepper. Add wine and let simmer until evaporated, 3 minutes. Add stocks and thyme and bring to a boil. Reduce heat and let simmer 15 minutes. Season with salt and pepper to taste and remove thyme. Preheat broiler to high. Ladle soups into heat safe ramekins and top each with 2 slices of bread and top with cheese. Broil until bubbling and golden, 1 to 2 minutes. Top with thyme to serve.",
+                "rating": 4.2
+            },
+            {
+                "recipeName": "Beef Bourguignon",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-190828-beef-bourguignon-0154-portrait-pf-1568132096.jpg?crop=1.00xw:0.668xh;0,0.261xh&resize=768:*",
+                "Ingredients": [
+                    "3 lb. beef chuck",
+                    "Freshly ground black pepper",
+                    "1/2 lb. bacon, cut into ½” pieces",
+                    "1 large onion, chopped",
+                    "4 cloves garlic, minced",
+                    "2 tsp. tomato paste",
+                    "3 c. dry red wine",
+                    "3 sprigs thyme"
+                ],
+                "cookingMethod": "Preheat oven to 350°. Season beef with salt and pepper. In a large Dutch oven (or ovenproof pot) over medium heat, heat oil. Add bacon and cook, stirring occasionally, until crispy, about 6 minutes. Drain bacon on a paper towel-lined plate.Increase heat to medium-high and, working in batches, add beef in a single layer, leaving room between each piece. Cook until seared on all sides, about 10 minutes. Repeat with remaining beef. Reduce heat to medium and stir in carrot and onion. If the pan seems very dark, add 1 tablespoon of water and use a wooden spoon to scrape dark. Season with salt and cook until softened, about 5 minutes. Stir in garlic and tomato paste and cook until fragrant, about 30 seconds.Add flour and stir until vegetables are coated, then add wine, broth, bay leaves, and thyme. Return bacon and beef to pot, cover pot with a tight-fitting lid, and transfer to oven. Cook until beef is very tender and sauce has thickened slightly, about 1½ hours. Season with salt and pepper. Meanwhile, cook pearl onions and mushrooms. In a large skillet over medium heat, melt butter. Add pearl onions and mushrooms and cook, stirring occasionally, until golden and tender. If the pan seems dry, add water by the tablespoon.Top each serving with pearl onions and mushrooms and garnish with parsley",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Cheese Puffs",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-cheese-puffs-093021-01-jg-1634050088.jpg?resize=768:*",
+                "Ingredients": [
+                    "1/2 c. water",
+                    "4 tbsp. butter",
+                    "1/2 tsp. Kosher salt",
+                    "1/2 tsp. granulated sugar ",
+                    "1/2 c. all-purpose flour",
+                    "2 large eggs",
+                    "1 tsp. freshly ground white pepper (optional)",
+                    "1/2 c. freshly grated Gruyère, plus more for topping"
+                ],
+                "cookingMethod": "Preheat oven to 400° and line a baking sheet with parchment paper.In a medium saucepan, combine water, butter, salt, sugar, and white pepper if using, and bring to a boil. Add the flour all at once and stir with a wooden spoon until a smooth dough forms. Continue to cook until dough pulls away from the pan and forms a ball, and a film develops on the bottom of the pot, about 2 minutes.Transfer dough to a bowl and continue to mix with a wooden spoon to cool slightly, 1 minute. Beat in eggs, one at a time, mixing until smooth and fully incorporated after each addition. Fold in gruyere.Transfer batter to a piping bag or use a small (2 teaspoon capacity) cookie scoop to create small, inch-wide mounds on prepared baking sheet, about an inch apart. Top with more gruyere and bake until puffed and golden, 20 to 25 minutes.",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Cest La Vie",
+        "image": "https://unsplash.com/photos/iEEBWgY_6lA",
+        "description": "Food is not just fuel for the body, it's a celebration of life. As a chef, I aim to create dishes that are not only delicious but also nourishing for the soul.",
+        "experience": "5 years",
+        "numbersOfRecipes": 3,
+        "likes": "2.7k",
+        "listOfRecipes": [
+            {
+                "recipeName": "Steak Frites",
+                "image_url": "https://hips.hearstapps.com/del.h-cdn.co/assets/16/13/2048x1365/gallery-1459436742-steakfritesl3.jpg?resize=980:*",
+                "Ingredients": [
+                    "1/4 c. chopped fresh parsley",
+                    "2 lb. russet potatoes, cleaned and dried",
+                    "1 tbsp. extra-virgin olive oil",
+                    "1 tbsp. butter",
+                    "4 8-oz. New York strip steaks, about 1 thick",
+                    "kosher salt",
+                    "Freshly ground black pepper",
+                    "Maldon sea salt"
+                ],
+                "cookingMethod": "Pour oil into a deep fryer (or about 4 inches up the sides of a deep pot) and heat to 325°. Leaving skin on, cut potatoes into 1/4 wide sticks. Rinse several times in ice cold water until water runs clear. Dry thoroughly with a clean towel.When the oil has reached 325°, fry potatoes in batches until slightly translucent and barely browned, about 2 minutes per batch. (Return temperature to 325° before frying each batch.) Drain with slotted spoon, then transfer to a paper towel-lined plate and sprinkle with salt.Preheat large cast-iron pan over high heat. Rinse and pat steaks dry with a paper towel, then season generously with salt and pepper. When cast-iron skillet is very hot but not smoking, add olive oil and butter. Place 2 steaks in pan and cook until desired temperature, 5 minutes on each side for medium-rare. Transfer steaks to a plate and loosely cover with foil. Repeat steps for remaining steaks, adding more olive oil and butter if necessary.Serve steak frites with a sprinkle of sea salt and garnish with fresh parsley",
+                "rating": 4.3
+            },
+            {
+                "recipeName": "Basic Crêpes",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/crepes-lead-64347419487e4.jpg?crop=0.9995238095238095xw:1xh;center,top&resize=640:*",
+                "Ingredients": [
+                    "2 large eggs, room temperature",
+                    "1 1/4 c. whole milk, room temperature",
+                    "1 c. (120 g.) all-purpose flour",
+                    "4 tsp. granulated sugar",
+                    "1/2 tsp. kosher salt",
+                    "3 tbsp. unsalted butter, melted, cooled, plus 1/2 tsp.",
+                    "cold unsalted butter",
+                    "Fresh berries and powdered sugar, for serving (optional)"
+                ],
+                "cookingMethod": "In a blender, blend eggs, milk, flour, granulated sugar, salt, and 3 tablespoons melted butter until smooth, about 1 minute. Cover and refrigerate at least 1 hour or up to 2 days.Preheat a 9' nonstick skillet over medium heat. Melt 1/2 teaspoon cold butter in preheated pan. Reduce heat to medium-low. Briefly whisk batter, then pour 1/4 cup into center of pan, lifting pan off heat and slightly tilting in a circular motion to help batter spread into an even circle. Cook until top is set and bottom is golden brown, about 45 seconds. Flip and cook on second side until cooked through, about 45 seconds more.Using a spatula, fold crêpe into quarters. Transfer to plate. Repeat with remaining batter for a total of 8 crêpes.Serve with berries and powdered sugar, if desired.Make Ahead: Crêpes can be made 3 days ahead. Let cool, then stack between sheets of parchment, store in an airtight container, and refrigerate, or freeze up to 1 month.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Potatoes Au Gratin",
+                "image_url": "https://hips.hearstapps.com/del.h-cdn.co/assets/18/08/1519322290-potatoes-au-gratin-vertical.jpg?resize=640:*",
+                "Ingredients": [
+                    "6 russet potatoes, cleaned and peeled",
+                    "2 tbsp. butter, plus more for pan",
+                    "2 cloves garlic, minced",
+                    "1 1/2 c. heavy cream",
+                    "1/4 c. milk and red pepper flakes",
+                    "1 tbsp. freshly chopped thyme",
+                    "Pinch of nutmeg and Kosher salt",
+                    "1 1/2 c. shredded Gruyère"
+                ],
+                "cookingMethod": "Preheat oven to 375° and butter a large 3 qt baking dish. Slice potatoes 1/4 thick and place in water to keep from browning.In a large skillet over medium heat, melt butter. Add garlic and cook until fragrant, about 1 minute. Add cream, milk, thyme, nutmeg, salt, and red pepper flakes. Bring to a boil and reduce heat to low. Let simmer 10 minutes. Remove from heat.Layer a third of potatoes, slightly overlapping, in prepared dish then pour a third of cream mixture over potatoes. Repeat with remaining potatoes and cream to make two more layers. Sprinkle Gruyère over top.Cover with foil and bake for 45 minutes. Uncover, sprinkle with Parmesan and continue baking until potatoes are tender and top is golden, 15 to 20 minutes. Let sit for 10 minutes before serving.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bleu Blanc Rouge",
+        "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "description": "Cooking is my passion, and I'm on a mission to share my knowledge and skills with others. Let's explore the world of food together and create amazing meals!",
+        "experience": "6 years",
+        "numbersOfRecipes": 3,
+        "likes": "1.5k",
+        "listOfRecipes": [
+            {
+                "recipeName": "Chocolate Soufflé",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-semi-sweet-chocolate-suffle1250-210201-sc-1614026336.jpg?crop=1.00xw:0.667xh;0,0.156xh&resize=640:*",
+                "Ingredients": [
+                    "1/2 c. (1 stick) butter, cut into tablespoons, plus more for dish",
+                    "6 tbsp. granulated sugar, plus more for dish",
+                    "8 oz. semisweet chocolate, roughly chopped",
+                    "1 tsp. pure vanilla extract",
+                    "1 tsp. kosher salt ",
+                    "4 large eggs, separated ",
+                    "Powdered sugar, for serving"
+                ],
+                "cookingMethod": "Preheat oven to 375°. Grease the inside of four 6-ounce ramekins well with butter including the top of the outside rim. Sprinkle a little sugar in each and tap it around to coat the inside well. Dump out any excess sugar. Place on a small baking sheet.Create a double boiler by placing a large bowl over a pot of simmering water, ensuring that the bottom of the bowl does not touch water. Add chocolate and butter to bowl and stir until completely melted. Remove from heat and stir in vanilla and salt. Let cool while you whip egg whites.Add egg whites to a medium bowl and beat with a hand mixer. Once at soft peaks start adding sugar slowly, 1 tablespoon at a time. Continue beating until egg whites reach stiff peaks.Add egg yolks one at a time to cooled chocolate, whisking well after each one. Add about ½ cup of whipped egg whites to chocolate and stir until just combined. Add the remaining egg whites in 2 batches, gently folding in after each addition just until no white streaks remain.Bake until soufflés have risen tall and are just slightly wobbly, about 20 minutes.Dust with powdered sugar and serve immediately.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Baked Brie In Puff Pastry",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-210824-baked-brie-013-ab-1632765206.jpg?crop=0.668xw:1.00xh;0.257xw,0&resize=640:*",
+                "Ingredients": [
+                    "1 (8-oz.) sheet puff pastry, thawed according to package directions",
+                    "1 (7-oz.) wheel brie",
+                    "3 tbsp. preserves, such as cherry or raspberry",
+                    "1 egg, lightly beaten",
+                    "2 tbsp. sliced almonds",
+                    "1 tbsp. honey"
+                ],
+                "cookingMethod": "Preheat oven to 425°. Line a baking sheet with parchment paper. On a lightly floured surface, roll puff pastry out to an 11” square. Place brie in center and top with preserves. Brush puff pastry all over with egg wash. Fold one corner over brie, then continue folding puff pastry over brie, creating pleats. Brush top with egg wash. Bake until lightly golden, about 25 minutes. Top with almonds and bake until golden brown, 5 to 8 minutes more. Let cool at least 10 minutes. Drizzle with honey just before serving.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Classic Coq Au Vin",
+                "image_url": "https://hips.hearstapps.com/hmg-prod/images/delish-202002-coq-au-vin-0142-landscape-pf-1582306355.jpg?crop=0.668xw:1.00xh;0.0901xw,0&resize=640:*",
+                "Ingredients": [
+                    "3 lb. bone-in, skin-on chicken thighs and drumsticks Kosher salt",
+                    "Freshly ground black pepper",
+                    "6 strips bacon, cut into 1 pieces",
+                    "8-oz. baby bellas, sliced",
+                    "1 large carrot, peeled and chopped",
+                    "2 cloves garlic, minced",
+                    "1 tbsp. tomato paste",
+                    "2 tbsp. all-purpose flour",
+                    "2 c. red wine"
+                ],
+                "cookingMethod": "Preheat oven to 350°. Season chicken all over with salt and pepper. In a large dutch oven over medium heat, add bacon and cook until crispy, about 8 minutes. Using a slotted spoon, remove bacon to a paper towel-lined plate.To same pot, add chicken, working in batches as necessary. Cook until skin is golden, 4 to 5 minutes per side. Remove chicken to a plate. Drain all but 3 tablespoons oil from pot.To same pot, add mushrooms, onions, and carrots and cook until golden, about 5 minutes. Add garlic and cook until fragrant, 1 minute more. Add tomato paste and stir to coat vegetables, then add flour and stir until vegetables are coated. Slowly pour in wine, broth, and brandy. Return chicken and half the bacon to pot. Add thyme, season with salt and pepper and bring to a boil.Once boiling, cover with lid and place in oven. Cook until chicken is cooked through and internal temperature reads 165°, 20 to 30 minutes. Remove chicken from pot and place on a plate to keepReturn pot to stove over medium heat, add in butter, and simmer until sauce is thickened, about 10 minutes.Serve chicken with sauce poured over and topped with remaining bacon and parsley.",
+                "rating": 4.5
             }
         ]
     }
