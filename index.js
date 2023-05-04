@@ -6,6 +6,10 @@ const chefInfo = require('./data/chefsData.json')
 
 app.use(cors())
 
+app.get('/', (req, res) => {
+    res.send("Server is Running...")
+})
+
 app.get('/chefs', (req, res) => {
     res.send(chefInfo)
 })
